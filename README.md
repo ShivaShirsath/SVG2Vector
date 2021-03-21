@@ -1,4 +1,4 @@
-<h1 align=center><a href=https://shivashirsath.github.io/svg2android>SVG To Vector Converter</a></h1>
+<h1 align=center><a href=https://shivashirsath.github.io/SVG2Vector/>SVG To Vector Converter</a></h1>
     
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-svg2android-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1061)
 svg2android
